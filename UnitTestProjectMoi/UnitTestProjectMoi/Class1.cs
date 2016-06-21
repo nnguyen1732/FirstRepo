@@ -8,5 +8,9 @@ namespace UnitTestProjectMoi
 {
     class Class1
     {
+
+        string txt = "Diep";
+
+
     }
 }
