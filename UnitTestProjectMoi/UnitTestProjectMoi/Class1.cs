@@ -9,7 +9,7 @@ namespace UnitTestProjectMoi
     class Class1
     {
 
-        string txt = "Diep";
+        string txt = "Diep3";
 
 
     }
